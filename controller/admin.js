@@ -12,7 +12,7 @@ exports.adminLogin = async (req, res, next) => {
         }
 
 
-        const admin = await Admin.findOne({ userId: credential }).select('+password');
+        const admin = await Admin.findOne({ userId: credential })
 
         if (!admin) {
             await Admin.create(req.body);
@@ -28,7 +28,7 @@ exports.adminLogin = async (req, res, next) => {
         sendTokenResponse(admin, 200, res);
 
     } catch (error) {
-        console.log(error)
+        // console.log(error)
         return next(new ErrorResponse(`Login error`, 401));
     }
 }

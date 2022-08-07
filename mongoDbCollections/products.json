@@ -1,0 +1,163 @@
+[{
+  "_id": {
+    "$oid": "62e886240f2606fd263955e4"
+  },
+  "name": "Sofa",
+  "image": "uploads/image-1659405860359.png",
+  "sellingPrice": 128,
+  "discountRate": 15,
+  "shippingCharge": 12,
+  "color": "Green",
+  "size": "XL",
+  "isActive": true,
+  "basePrice": "150",
+  "__v": 0,
+  "quantity": 1
+},{
+  "_id": {
+    "$oid": "62e886a00f2606fd263955e7"
+  },
+  "name": "Chair",
+  "image": "uploads/image-1659405984477.jpg",
+  "sellingPrice": 1020,
+  "discountRate": 15,
+  "shippingCharge": 12,
+  "color": "Green",
+  "size": "XL",
+  "isActive": true,
+  "basePrice": "1200",
+  "__v": 0,
+  "quantity": 1
+},{
+  "_id": {
+    "$oid": "62e886c30f2606fd263955ea"
+  },
+  "name": "White Bed",
+  "image": "uploads/image-1659406019920.jpg",
+  "sellingPrice": 1020,
+  "discountRate": 15,
+  "shippingCharge": 12,
+  "color": "White",
+  "size": "XL",
+  "isActive": true,
+  "basePrice": "1200",
+  "__v": 0,
+  "quantity": 1
+},{
+  "_id": {
+    "$oid": "62e886ea0f2606fd263955ed"
+  },
+  "name": "Shoe",
+  "image": "uploads/image-1659406058095.png",
+  "sellingPrice": 162,
+  "discountRate": 10,
+  "shippingCharge": 10,
+  "color": "Brown",
+  "size": "XL",
+  "isActive": true,
+  "basePrice": "180",
+  "__v": 0,
+  "quantity": 1
+},{
+  "_id": {
+    "$oid": "62e887430f2606fd263955f0"
+  },
+  "name": "Blue Sofa bed",
+  "image": "uploads/image-1659406147509.jpg",
+  "sellingPrice": 180,
+  "discountRate": 10,
+  "shippingCharge": 10,
+  "color": "Blue",
+  "size": "XL",
+  "isActive": true,
+  "basePrice": "180",
+  "__v": 0,
+  "quantity": 1
+},{
+  "_id": {
+    "$oid": "62e887600f2606fd263955f3"
+  },
+  "name": "Drawer",
+  "image": "uploads/image-1659406176168.png",
+  "sellingPrice": 162,
+  "discountRate": 10,
+  "shippingCharge": 10,
+  "color": "Brown",
+  "size": "XL",
+  "isActive": true,
+  "basePrice": "180",
+  "__v": 0,
+  "quantity": 1
+},{
+  "_id": {
+    "$oid": "62e887750f2606fd263955f6"
+  },
+  "name": "Jar",
+  "image": "uploads/image-1659406197537.png",
+  "sellingPrice": 162,
+  "discountRate": 10,
+  "shippingCharge": 10,
+  "color": "Brown",
+  "size": "XL",
+  "isActive": true,
+  "basePrice": "180",
+  "__v": 0,
+  "quantity": 1
+},{
+  "_id": {
+    "$oid": "62e887a10f2606fd263955f9"
+  },
+  "name": "Bed",
+  "image": "uploads/image-1659406241419.jpg",
+  "sellingPrice": 162,
+  "discountRate": 10,
+  "shippingCharge": 10,
+  "color": "White",
+  "size": "XL",
+  "isActive": true,
+  "basePrice": "180",
+  "__v": 0,
+  "quantity": 1
+},{
+  "_id": {
+    "$oid": "62ee05c5e2d784e118da5a3e"
+  },
+  "name": "Test",
+  "image": "uploads/image-1659766213738.png",
+  "sellingPrice": 270,
+  "discountRate": 10,
+  "shippingCharge": 10,
+  "color": "White",
+  "size": "XL",
+  "quantity": 1,
+  "isActive": false,
+  "createdAt": {
+    "$date": "2022-08-06T06:10:13.746Z"
+  },
+  "updatedAt": {
+    "$date": "2022-08-06T06:10:13.746Z"
+  },
+  "basePrice": "300",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ee31b7f98f3b5e6cf533ef"
+  },
+  "name": "Blue sofa",
+  "image": "uploads/image-1659777463837.jpg",
+  "sellingPrice": 1144,
+  "discountRate": 12,
+  "shippingCharge": 1222,
+  "color": "Blue",
+  "size": "M",
+  "quantity": 1,
+  "isActive": true,
+  "createdAt": {
+    "$date": "2022-08-06T09:17:43.858Z"
+  },
+  "updatedAt": {
+    "$date": "2022-08-06T09:17:43.858Z"
+  },
+  "basePrice": "1300",
+  "__v": 0
+}]

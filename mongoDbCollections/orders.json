@@ -1,0 +1,136 @@
+[{
+  "_id": {
+    "$oid": "62e9fc206729b5658498a0e2"
+  },
+  "cart": "{\"total\":122}",
+  "total": 122,
+  "orderNo": "79011",
+  "status": "Confirmed",
+  "createdAt": {
+    "$date": "2022-08-03T04:40:00.320Z"
+  },
+  "updatedAt": {
+    "$date": "2022-08-06T15:57:51.283Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ed54d86117cd966cf376c2"
+  },
+  "cart": "{\"products\":[{\"_id\":\"62e886240f2606fd263955e4\",\"name\":\"Sofa\",\"image\":\"uploads/image-1659405860359.png\",\"sellingPrice\":128,\"discountRate\":15,\"shippingCharge\":12,\"color\":\"Green\",\"size\":\"XL\",\"isActive\":true,\"basePrice\":\"150\",\"__v\":0,\"quantity\":1},{\"_id\":\"62e886a00f2606fd263955e7\",\"name\":\"Chair\",\"image\":\"uploads/image-1659405984477.jpg\",\"sellingPrice\":1020,\"discountRate\":15,\"shippingCharge\":12,\"color\":\"Green\",\"size\":\"XL\",\"isActive\":true,\"basePrice\":\"1200\",\"__v\":0,\"quantity\":1},{\"_id\":\"62e886c30f2606fd263955ea\",\"name\":\"White Bed\",\"image\":\"uploads/image-1659406019920.jpg\",\"sellingPrice\":1020,\"discountRate\":15,\"shippingCharge\":12,\"color\":\"White\",\"size\":\"XL\",\"isActive\":true,\"basePrice\":\"1200\",\"__v\":0,\"quantity\":1}],\"subTotal\":2103,\"discount\":63,\"shippingCharge\":36,\"walletDebit\":0,\"total\":2103}",
+  "total": 2076,
+  "orderNo": "78815",
+  "status": "Pending",
+  "createdAt": {
+    "$date": "2022-08-05T17:35:20.887Z"
+  },
+  "updatedAt": {
+    "$date": "2022-08-06T15:46:19.762Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ed553e6117cd966cf376c7"
+  },
+  "cart": "{\"products\":[{\"_id\":\"62e886240f2606fd263955e4\",\"name\":\"Sofa\",\"image\":\"uploads/image-1659405860359.png\",\"sellingPrice\":128,\"discountRate\":15,\"shippingCharge\":12,\"color\":\"Green\",\"size\":\"XL\",\"isActive\":true,\"basePrice\":\"150\",\"__v\":0,\"quantity\":1},{\"_id\":\"62e886a00f2606fd263955e7\",\"name\":\"Chair\",\"image\":\"uploads/image-1659405984477.jpg\",\"sellingPrice\":1020,\"discountRate\":15,\"shippingCharge\":12,\"color\":\"Green\",\"size\":\"XL\",\"isActive\":true,\"basePrice\":\"1200\",\"__v\":0,\"quantity\":1},{\"_id\":\"62e886c30f2606fd263955ea\",\"name\":\"White Bed\",\"image\":\"uploads/image-1659406019920.jpg\",\"sellingPrice\":1020,\"discountRate\":15,\"shippingCharge\":12,\"color\":\"White\",\"size\":\"XL\",\"isActive\":true,\"basePrice\":\"1200\",\"__v\":0,\"quantity\":1}],\"subTotal\":2103,\"discount\":63,\"shippingCharge\":36,\"walletDebit\":0,\"total\":2103}",
+  "total": 2076,
+  "orderNo": "57542",
+  "status": "Pending",
+  "createdAt": {
+    "$date": "2022-08-05T17:37:02.177Z"
+  },
+  "updatedAt": {
+    "$date": "2022-08-06T15:46:20.247Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ed56de6117cd966cf376ec"
+  },
+  "cart": "{\"products\":[{\"_id\":\"62e886240f2606fd263955e4\",\"name\":\"Sofa\",\"image\":\"uploads/image-1659405860359.png\",\"sellingPrice\":128,\"discountRate\":15,\"shippingCharge\":12,\"color\":\"Green\",\"size\":\"XL\",\"isActive\":true,\"basePrice\":\"150\",\"__v\":0,\"quantity\":3,\"totalPrice\":null},{\"_id\":\"62e886a00f2606fd263955e7\",\"name\":\"Chair\",\"image\":\"uploads/image-1659405984477.jpg\",\"sellingPrice\":1020,\"discountRate\":15,\"shippingCharge\":12,\"color\":\"Green\",\"size\":\"XL\",\"isActive\":true,\"basePrice\":\"1200\",\"__v\":0,\"quantity\":2,\"totalPrice\":null},{\"_id\":\"62e886ea0f2606fd263955ed\",\"name\":\"Shoe\",\"image\":\"uploads/image-1659406058095.png\",\"sellingPrice\":162,\"discountRate\":10,\"shippingCharge\":10,\"color\":\"Brown\",\"size\":\"XL\",\"isActive\":true,\"basePrice\":\"180\",\"__v\":0,\"quantity\":2,\"totalPrice\":null}],\"subTotal\":2671,\"discount\":75,\"shippingCharge\":34,\"walletDebit\":0,\"total\":2671}",
+  "total": 2630,
+  "orderNo": "94595",
+  "status": "Confirmed",
+  "createdAt": {
+    "$date": "2022-08-05T17:43:58.278Z"
+  },
+  "updatedAt": {
+    "$date": "2022-08-05T17:43:58.278Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ed576e6117cd966cf376fb"
+  },
+  "cart": "{\"products\":[{\"_id\":\"62e886240f2606fd263955e4\",\"name\":\"Sofa\",\"image\":\"uploads/image-1659405860359.png\",\"sellingPrice\":128,\"discountRate\":15,\"shippingCharge\":12,\"color\":\"Green\",\"size\":\"XL\",\"isActive\":true,\"basePrice\":\"150\",\"__v\":0,\"quantity\":1},{\"_id\":\"62e886a00f2606fd263955e7\",\"name\":\"Chair\",\"image\":\"uploads/image-1659405984477.jpg\",\"sellingPrice\":1020,\"discountRate\":15,\"shippingCharge\":12,\"color\":\"Green\",\"size\":\"XL\",\"isActive\":true,\"basePrice\":\"1200\",\"__v\":0,\"quantity\":1},{\"_id\":\"62e886c30f2606fd263955ea\",\"name\":\"White Bed\",\"image\":\"uploads/image-1659406019920.jpg\",\"sellingPrice\":1020,\"discountRate\":15,\"shippingCharge\":12,\"color\":\"White\",\"size\":\"XL\",\"isActive\":true,\"basePrice\":\"1200\",\"__v\":0,\"quantity\":1},{\"_id\":\"62e886ea0f2606fd263955ed\",\"name\":\"Shoe\",\"image\":\"uploads/image-1659406058095.png\",\"sellingPrice\":162,\"discountRate\":10,\"shippingCharge\":10,\"color\":\"Brown\",\"size\":\"XL\",\"isActive\":true,\"basePrice\":\"180\",\"__v\":0,\"quantity\":1}],\"subTotal\":2261,\"discount\":67,\"shippingCharge\":46,\"walletDebit\":0,\"total\":2261}",
+  "total": 2240,
+  "orderNo": "17922",
+  "status": "Pending",
+  "createdAt": {
+    "$date": "2022-08-05T17:46:22.377Z"
+  },
+  "updatedAt": {
+    "$date": "2022-08-06T15:46:20.771Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ed581f6117cd966cf37703"
+  },
+  "cart": "{\"products\":[{\"_id\":\"62e886c30f2606fd263955ea\",\"name\":\"White Bed\",\"image\":\"uploads/image-1659406019920.jpg\",\"sellingPrice\":1020,\"discountRate\":15,\"shippingCharge\":12,\"color\":\"White\",\"size\":\"XL\",\"isActive\":true,\"basePrice\":\"1200\",\"__v\":0,\"quantity\":5,\"totalPrice\":null}],\"subTotal\":5100,\"discount\":0,\"shippingCharge\":12,\"walletDebit\":0,\"total\":5100}",
+  "total": 5112,
+  "orderNo": "3197",
+  "status": "Confirmed",
+  "createdAt": {
+    "$date": "2022-08-05T17:49:19.921Z"
+  },
+  "updatedAt": {
+    "$date": "2022-08-05T17:49:19.921Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62edcf90e35f0d087176010f"
+  },
+  "cart": "{\"products\":[{\"_id\":\"62e886240f2606fd263955e4\",\"name\":\"Sofa\",\"image\":\"uploads/image-1659405860359.png\",\"sellingPrice\":128,\"discountRate\":15,\"shippingCharge\":12,\"color\":\"Green\",\"size\":\"XL\",\"isActive\":true,\"basePrice\":\"150\",\"__v\":0,\"quantity\":1},{\"_id\":\"62e886a00f2606fd263955e7\",\"name\":\"Chair\",\"image\":\"uploads/image-1659405984477.jpg\",\"sellingPrice\":1020,\"discountRate\":15,\"shippingCharge\":12,\"color\":\"Green\",\"size\":\"XL\",\"isActive\":true,\"basePrice\":\"1200\",\"__v\":0,\"quantity\":3,\"totalPrice\":null},{\"_id\":\"62e886c30f2606fd263955ea\",\"name\":\"White Bed\",\"image\":\"uploads/image-1659406019920.jpg\",\"sellingPrice\":1020,\"discountRate\":15,\"shippingCharge\":12,\"color\":\"White\",\"size\":\"XL\",\"isActive\":true,\"basePrice\":\"1200\",\"__v\":0,\"quantity\":1}],\"subTotal\":4143,\"discount\":63,\"shippingCharge\":36,\"walletDebit\":0,\"total\":4143}",
+  "total": 4116,
+  "orderNo": "72506",
+  "status": "Canceled",
+  "createdAt": {
+    "$date": "2022-08-06T02:18:56.157Z"
+  },
+  "updatedAt": {
+    "$date": "2022-08-06T02:18:56.157Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62eeb4e75b7d6581f4625ee6"
+  },
+  "cart": "{\"products\":[{\"_id\":\"62e886240f2606fd263955e4\",\"name\":\"Sofa\",\"image\":\"uploads/image-1659405860359.png\",\"sellingPrice\":128,\"discountRate\":15,\"shippingCharge\":12,\"color\":\"Green\",\"size\":\"XL\",\"isActive\":true,\"basePrice\":\"150\",\"__v\":0,\"quantity\":2,\"totalPrice\":null},{\"_id\":\"62e886a00f2606fd263955e7\",\"name\":\"Chair\",\"image\":\"uploads/image-1659405984477.jpg\",\"sellingPrice\":1020,\"discountRate\":15,\"shippingCharge\":12,\"color\":\"Green\",\"size\":\"XL\",\"isActive\":true,\"basePrice\":\"1200\",\"__v\":0,\"quantity\":2,\"totalPrice\":null},{\"_id\":\"62e887430f2606fd263955f0\",\"name\":\"Blue Sofa bed\",\"image\":\"uploads/image-1659406147509.jpg\",\"sellingPrice\":180,\"discountRate\":10,\"shippingCharge\":10,\"color\":\"Blue\",\"size\":\"XL\",\"isActive\":true,\"basePrice\":\"180\",\"__v\":0,\"quantity\":2,\"totalPrice\":null}],\"subTotal\":2311,\"discount\":300,\"shippingCharge\":34,\"walletDebit\":0,\"total\":2311}",
+  "total": 2045,
+  "orderNo": "48733",
+  "status": "Pending",
+  "createdAt": {
+    "$date": "2022-08-06T18:37:27.199Z"
+  },
+  "updatedAt": {
+    "$date": "2022-08-06T18:37:27.199Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62eeb50e5b7d6581f4625ef4"
+  },
+  "cart": "{\"products\":[{\"_id\":\"62e886240f2606fd263955e4\",\"name\":\"Sofa\",\"image\":\"uploads/image-1659405860359.png\",\"sellingPrice\":128,\"discountRate\":15,\"shippingCharge\":12,\"color\":\"Green\",\"size\":\"XL\",\"isActive\":true,\"basePrice\":\"150\",\"__v\":0,\"quantity\":1},{\"_id\":\"62e886a00f2606fd263955e7\",\"name\":\"Chair\",\"image\":\"uploads/image-1659405984477.jpg\",\"sellingPrice\":1020,\"discountRate\":15,\"shippingCharge\":12,\"color\":\"Green\",\"size\":\"XL\",\"isActive\":true,\"basePrice\":\"1200\",\"__v\":0,\"quantity\":1},{\"_id\":\"62e886ea0f2606fd263955ed\",\"name\":\"Shoe\",\"image\":\"uploads/image-1659406058095.png\",\"sellingPrice\":162,\"discountRate\":10,\"shippingCharge\":10,\"color\":\"Brown\",\"size\":\"XL\",\"isActive\":true,\"basePrice\":\"180\",\"__v\":0,\"quantity\":1}],\"subTotal\":1140,\"discount\":148,\"shippingCharge\":34,\"walletDebit\":0,\"total\":1140}",
+  "total": 1026,
+  "orderNo": "69172",
+  "status": "Pending",
+  "createdAt": {
+    "$date": "2022-08-06T18:38:06.008Z"
+  },
+  "updatedAt": {
+    "$date": "2022-08-06T18:38:06.008Z"
+  },
+  "__v": 0
+}]

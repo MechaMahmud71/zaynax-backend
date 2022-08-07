@@ -9,7 +9,7 @@ exports.createCode = async (req, res, next) => {
             data: promoCode
         })
     } catch (error) {
-        console.log(error)
+        // console.log(error)
         return next(new ErrorResponse("Invalid Operation", 500));
     }
 
@@ -25,7 +25,7 @@ exports.editCode = async (req, res, next) => {
             data: promoCode
         })
     } catch (error) {
-        console.log(error)
+        // console.log(error)
         return next(new ErrorResponse("Invalid Operation", 500));
     }
 
@@ -44,7 +44,7 @@ exports.changeStatus = async (req, res, next) => {
             data: codes
         })
     } catch (error) {
-        console.log(error)
+        // console.log(error)
         return next(new ErrorResponse("Invalid Operation", 500));
     }
 

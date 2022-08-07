@@ -1,0 +1,67 @@
+[{
+  "_id": {
+    "$oid": "62e8e2bb42eeebc739f929d7"
+  },
+  "code": "TestCode",
+  "startDate": {
+    "$date": "2022-08-02T00:00:00Z"
+  },
+  "endDate": {
+    "$date": "2022-11-29T00:00:00Z"
+  },
+  "discountRate": 5,
+  "useTime": 1100,
+  "usage": 20,
+  "isActive": true,
+  "createdAt": {
+    "$date": "2022-08-02T08:39:23.171Z"
+  },
+  "updatedAt": {
+    "$date": "2022-08-06T18:38:31.818Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62eeaaa1df1dd4d46d0b460a"
+  },
+  "code": "TestCode20",
+  "startDate": {
+    "$date": "2022-08-04T00:00:00Z"
+  },
+  "endDate": {
+    "$date": "2022-11-30T00:00:00Z"
+  },
+  "discountRate": 23,
+  "useTime": 1000,
+  "usage": 0,
+  "isActive": true,
+  "createdAt": {
+    "$date": "2022-08-06T17:53:37.931Z"
+  },
+  "updatedAt": {
+    "$date": "2022-08-06T18:39:32.758Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62eeadd9df1dd4d46d0b464b"
+  },
+  "code": "FarukCode",
+  "startDate": {
+    "$date": "2022-08-11T00:00:00Z"
+  },
+  "endDate": {
+    "$date": "2022-11-30T00:00:00Z"
+  },
+  "discountRate": 13,
+  "useTime": 1000,
+  "usage": 2,
+  "isActive": true,
+  "createdAt": {
+    "$date": "2022-08-06T18:07:21.780Z"
+  },
+  "updatedAt": {
+    "$date": "2022-08-06T18:39:33.254Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,71 @@
+[{
+  "_id": {
+    "$oid": "62e8735f9ce26c1ed9461289"
+  },
+  "phoneNo": "01556360257",
+  "password": "$2a$10$8x0.sT8zXO7dvWDzUL/80OqeFGVjDgHQipbJq.0lxcoSMsGIs2dza",
+  "usedCoupons": [],
+  "createdAt": {
+    "$date": "2022-08-02T00:44:15.407Z"
+  },
+  "updatedAt": {
+    "$date": "2022-08-02T00:44:15.407Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ed22268d600e4e6fad95c6"
+  },
+  "phoneNo": "01556360256",
+  "password": "$2a$10$FEldm6KrEoO9sLoNyj5lD.DSbtVk0d2lnDti1vv83uwviqn7MBA62",
+  "usedCoupons": [],
+  "createdAt": {
+    "$date": "2022-08-05T13:59:02.353Z"
+  },
+  "updatedAt": {
+    "$date": "2022-08-05T13:59:02.353Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ed56ca6117cd966cf376e3"
+  },
+  "phoneNo": "0155636923",
+  "password": "$2a$10$ugEY157w4/RIqyT2PdJQJOfUP4K.ZcaI3lHkhgicXFAFMzqaDHLKu",
+  "usedCoupons": [],
+  "createdAt": {
+    "$date": "2022-08-05T17:43:38.559Z"
+  },
+  "updatedAt": {
+    "$date": "2022-08-05T17:43:38.559Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62ee0188e2d784e118da5a19"
+  },
+  "phoneNo": "01556360253",
+  "password": "$2a$10$60ON9TCfabWLRSCHrP9xDO6K/2avJdMjyYHoBiKUqVtjhBfNcO8Hy",
+  "usedCoupons": [],
+  "createdAt": {
+    "$date": "2022-08-06T05:52:08.908Z"
+  },
+  "updatedAt": {
+    "$date": "2022-08-06T05:52:08.908Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62eeb4bf5b7d6581f4625ed3"
+  },
+  "phoneNo": "01314683600",
+  "password": "$2a$10$6Y4wBOw3zp3B4d17RORk0eQhcsbYfWT0O1TBp8fnjjmpqtmHP.tkS",
+  "usedCoupons": [],
+  "createdAt": {
+    "$date": "2022-08-06T18:36:47.507Z"
+  },
+  "updatedAt": {
+    "$date": "2022-08-06T18:36:47.507Z"
+  },
+  "__v": 0
+}]
