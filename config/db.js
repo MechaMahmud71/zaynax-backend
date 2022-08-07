@@ -1,7 +1,7 @@
 const mongoose = require('mongoose');
 
 const connectDB = async () => {
-    const connection = await mongoose.connect("mongodb+srv://mahmud:mahmud@cluster0-jvn0s.gcp.mongodb.net/zaynax?retryWrites=true&w=majority", {
+    const connection = await mongoose.connect("mongodb://0.0.0.0:27017/zaynax-backend", {
         useNewUrlParser: true,
         useUnifiedTopology: true
     });
